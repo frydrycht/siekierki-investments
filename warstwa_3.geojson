@@ -1,0 +1,980 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "multipolygon",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/",
+                "name": "Wiślany Mokotów VIII",
+                "Data uzyskania DŚ": "4.11.2021",
+                "Informacje": "",
+                "Inwestor": "Spravia (Budimex Nieruchomości)",
+                "Start budowy": "05.2024",
+                "opis": "",
+                "Strona WWW": "https://wislanymokotow.pl/e8/",
+                "Data uzyskania PnB": "9.11.2023"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                21.06221926082,
+                                52.20631636133
+                            ],
+                            [
+                                21.06122601057,
+                                52.20619721124
+                            ],
+                            [
+                                21.06126135350,
+                                52.20612957450
+                            ],
+                            [
+                                21.06233700631,
+                                52.20546450646
+                            ],
+                            [
+                                21.06266457172,
+                                52.20566518093
+                            ],
+                            [
+                                21.06247422902,
+                                52.20597055672
+                            ],
+                            [
+                                21.06238167786,
+                                52.20620971350
+                            ],
+                            [
+                                21.06221926082,
+                                52.20631636133
+                            ]
+                        ],
+                        [
+                            [
+                                21.06237511768,
+                                52.20619390860
+                            ],
+                            [
+                                21.06214795798,
+                                52.20605470000
+                            ],
+                            [
+                                21.06200022896,
+                                52.20614523173
+                            ],
+                            [
+                                21.06222738866,
+                                52.20628444005
+                            ],
+                            [
+                                21.06237511768,
+                                52.20619390860
+                            ]
+                        ],
+                        [
+                            [
+                                21.06154981794,
+                                52.20621463427
+                            ],
+                            [
+                                21.06139439140,
+                                52.20611960443
+                            ],
+                            [
+                                21.06176163903,
+                                52.20589402762
+                            ],
+                            [
+                                21.06191706557,
+                                52.20598905795
+                            ],
+                            [
+                                21.06154981794,
+                                52.20621463427
+                            ]
+                        ],
+                        [
+                            [
+                                21.06216634643,
+                                52.20583179946
+                            ],
+                            [
+                                21.06230643602,
+                                52.20574660598
+                            ],
+                            [
+                                21.06228047095,
+                                52.20573057110
+                            ],
+                            [
+                                21.06239565288,
+                                52.20566052471
+                            ],
+                            [
+                                21.06247760531,
+                                52.20571113495
+                            ],
+                            [
+                                21.06260844286,
+                                52.20563195064
+                            ],
+                            [
+                                21.06239251503,
+                                52.20550009766
+                            ],
+                            [
+                                21.06201061818,
+                                52.20573562871
+                            ],
+                            [
+                                21.06216634643,
+                                52.20583179946
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "multipolygon",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+                "Pozwolenie na budowę": "",
+                "name": "Wille Wiślany Mokotów",
+                "Data uzyskania DŚ": "4.11.2021",
+                "Informacje": "",
+                "Inwestor": "Spravia (Budimex Nieruchomości)",
+                "Start budowy": "05.2024",
+                "Strona WWW": "https://wille.wislanymokotow.pl/",
+                "Data uzyskania PnB": "",
+                "opis": ""
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                21.06135225418,
+                                52.20591771500
+                            ],
+                            [
+                                21.06151608245,
+                                52.20553852552
+                            ],
+                            [
+                                21.06198552197,
+                                52.20525311533
+                            ],
+                            [
+                                21.06221019762,
+                                52.20539225317
+                            ],
+                            [
+                                21.06135225418,
+                                52.20591771500
+                            ]
+                        ],
+                        [
+                            [
+                                21.06179954615,
+                                52.20559226620
+                            ],
+                            [
+                                21.06216360402,
+                                52.20536362852
+                            ],
+                            [
+                                21.06202159160,
+                                52.20527770484
+                            ],
+                            [
+                                21.06165211860,
+                                52.20550302367
+                            ],
+                            [
+                                21.06179954615,
+                                52.20559226620
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Strona WWW": "https://ronson.pl/zielono-mi/",
+                "Informacje": "",
+                "Inwestor": "",
+                "opis": "etap I - 2 budynki, ok. 92 mieszkania, ok. 91 miejsc postojowych, 1 kondygnacja podziemna, 4 nadziemne, oddzielne hale garażowe pod budynkami (etap nie wymaga decyzji środowiskowej)",
+                "Data uzyskania DŚ": "",
+                "name": "Zielono Mi I",
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/24a898ca-21dd-4027-8d1e-7f35a33f51b7/",
+                "Decyzja środowiskowa": "",
+                "Start budowy": "",
+                "Data uzyskania PnB": "01.09.2023"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07098900000,
+                        52.20660810000
+                    ],
+                    [
+                        21.07151290000,
+                        52.20625200000
+                    ],
+                    [
+                        21.07158360000,
+                        52.20612350000
+                    ],
+                    [
+                        21.07265040000,
+                        52.20644930000
+                    ],
+                    [
+                        21.07255650000,
+                        52.20668770000
+                    ],
+                    [
+                        21.07239300000,
+                        52.20666470000
+                    ],
+                    [
+                        21.07229640000,
+                        52.20692930000
+                    ],
+                    [
+                        21.07215960000,
+                        52.20691940000
+                    ],
+                    [
+                        21.07200400000,
+                        52.20697360000
+                    ],
+                    [
+                        21.07195440000,
+                        52.20704100000
+                    ],
+                    [
+                        21.07098900000,
+                        52.20660810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "(etap1) https://wyszukiwarka.gunb.gov.pl/wniosek/f7c5a322-5aad-4612-a3a7-0fdbf7c165fe/\n(etap2) https://wyszukiwarka.gunb.gov.pl/wniosek/adfbc32f-66d6-469c-aac6-5709347188e0/\n(rozbiórka) https://wyszukiwarka.gunb.gov.pl/wniosek/620f11dc-7ff2-4a6c-90f0-df680713f99e/\n",
+                "Data uzyskania PnB": "20.12.2023 - etap I",
+                "Strona WWW": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/mokotow-sportowy",
+                "Informacje": "",
+                "Inwestor": "Dom Development",
+                "Data uzyskania DŚ": "",
+                "opis": "etap 1: 5-6 kondygnacji, ok 167 mieszkań, 1 lokal usługowy\netap 2: 4-5 kondygnacji, ok. 116 mieszkań, ok. 4 lokale usługowe",
+                "name": "Mokotów Sportowy",
+                "Decyzja środowiskowa": "",
+                "Start budowy": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08694870000,
+                        52.19590910000
+                    ],
+                    [
+                        21.08775870000,
+                        52.19518400000
+                    ],
+                    [
+                        21.08809910000,
+                        52.19514070000
+                    ],
+                    [
+                        21.08917450000,
+                        52.19560050000
+                    ],
+                    [
+                        21.08819800000,
+                        52.19638960000
+                    ],
+                    [
+                        21.08694870000,
+                        52.19590910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/1b5fab3b-e4f0-4184-981f-e765f1300ab6/",
+                "Data uzyskania PnB": "13.10.2021",
+                "Data uzyskania DŚ": "",
+                "opis": "",
+                "Decyzja środowiskowa": "",
+                "Strona WWW": "https://nowaszkolawarszawa.pijarzy.pl/",
+                "name": "Szkoła Podstawowa Pijarów",
+                "Start budowy": "",
+                "Inwestor": "Zakon Pijarów"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08212490000,
+                        52.20749520000
+                    ],
+                    [
+                        21.08234150000,
+                        52.20724230000
+                    ],
+                    [
+                        21.08212220000,
+                        52.20716110000
+                    ],
+                    [
+                        21.08216650000,
+                        52.20708920000
+                    ],
+                    [
+                        21.08229530000,
+                        52.20705390000
+                    ],
+                    [
+                        21.08297520000,
+                        52.20724130000
+                    ],
+                    [
+                        21.08310530000,
+                        52.20737360000
+                    ],
+                    [
+                        21.08236630000,
+                        52.20764060000
+                    ],
+                    [
+                        21.08212490000,
+                        52.20749520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Data uzyskania PnB": "06.10.2023",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+                "name": "Harmonia Mokotów",
+                "Pozwolenie na budowę": "194/MOK/2023",
+                "Informacje": "",
+                "Inwestor": "Dom Development",
+                "Start budowy": "01.2024",
+                "opis": "",
+                "Data uzyskania DŚ": "4.11.2021",
+                "Strona WWW": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06388021687,
+                        52.20453325458
+                    ],
+                    [
+                        21.06448300154,
+                        52.20421666393
+                    ],
+                    [
+                        21.06566290000,
+                        52.20324960000
+                    ],
+                    [
+                        21.06748855502,
+                        52.20342556899
+                    ],
+                    [
+                        21.06746070000,
+                        52.20357060000
+                    ],
+                    [
+                        21.06734330000,
+                        52.20363260000
+                    ],
+                    [
+                        21.06701340000,
+                        52.20389480000
+                    ],
+                    [
+                        21.06679610000,
+                        52.20400410000
+                    ],
+                    [
+                        21.06657480000,
+                        52.20413220000
+                    ],
+                    [
+                        21.06632400000,
+                        52.20422750000
+                    ],
+                    [
+                        21.06542820000,
+                        52.20450010000
+                    ],
+                    [
+                        21.06487840000,
+                        52.20469700000
+                    ],
+                    [
+                        21.06449947360,
+                        52.20489520519
+                    ],
+                    [
+                        21.06388021687,
+                        52.20453325458
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+                "Informacje": "",
+                "Start budowy": "05.2024",
+                "Pozwolenie na budowę": "41/MOK/2023",
+                "Strona WWW": "https://wille.wislanymokotow.pl/",
+                "opis": "",
+                "Inwestor": "Spravia (Budimex Nieruchomości)",
+                "name": "Wille Wiślany Mokotów",
+                "Data uzyskania DŚ": "4.11.2021",
+                "Data uzyskania PnB": "08.03.2023"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06258075418,
+                        52.20515802308
+                    ],
+                    [
+                        21.06235020460,
+                        52.20502015787
+                    ],
+                    [
+                        21.06328191499,
+                        52.20443644129
+                    ],
+                    [
+                        21.06352058842,
+                        52.20457641047
+                    ],
+                    [
+                        21.06258075418,
+                        52.20515802308
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "(wniosek z 2017 roku z uzyskanym pozwoleniem w 2019) https://wyszukiwarka.gunb.gov.pl/wniosek/37c06492-4588-4aef-be0e-4d8fb84f9842/\n(wniosek z 2021 roku) https://wyszukiwarka.gunb.gov.pl/wniosek/38303741-2e6c-4680-b891-a9a7baf62e53/\n",
+                "Strona WWW": "",
+                "Informacje": "",
+                "Data uzyskania PnB": "21.02.2022",
+                "Data uzyskania DŚ": "",
+                "Start budowy": "07.2022",
+                "opis": "budynek mieszkalny wielorodzinny z usługami handlowymi i biurowymi, garażem podziemnym, placem miejskim oraz niezbędną infrastrukturą techniczną, wjazdami, drogami, chodnikami, zielenią, miejscami parkingowymi\n165 mieszkań",
+                "Inwestor": "MSM \"Energetyka\"",
+                "Decyzja środowiskowa": "",
+                "name": "W-20"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.04949460000,
+                        52.20695510000
+                    ],
+                    [
+                        21.04952140000,
+                        52.20676690000
+                    ],
+                    [
+                        21.04960590000,
+                        52.20655720000
+                    ],
+                    [
+                        21.04987810000,
+                        52.20647510000
+                    ],
+                    [
+                        21.05126480000,
+                        52.20659840000
+                    ],
+                    [
+                        21.05117090000,
+                        52.20703880000
+                    ],
+                    [
+                        21.05034210000,
+                        52.20701830000
+                    ],
+                    [
+                        21.04949460000,
+                        52.20695510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/17e40b45-9509-4cef-ab64-7ace33faee06/",
+                "Informacje": "",
+                "Strona WWW": "https://www.auramokotow.pl/",
+                "Data uzyskania PnB": "24.03.2022",
+                "Data uzyskania DŚ": "",
+                "Start budowy": "01.2023",
+                "opis": "Cztery budynki trzykondygnacyjne, w których zaprojektowano 148 mieszkań 1-4- pokojowych, o powierzchni 33 m2 do 127 m2.",
+                "Inwestor": "Mill-yon",
+                "name": "Aura Mokotów II",
+                "Decyzja środowiskowa": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07179050000,
+                        52.20931870000
+                    ],
+                    [
+                        21.07116420000,
+                        52.20837360000
+                    ],
+                    [
+                        21.07067470000,
+                        52.20850520000
+                    ],
+                    [
+                        21.07021600000,
+                        52.20775570000
+                    ],
+                    [
+                        21.07140960000,
+                        52.20760280000
+                    ],
+                    [
+                        21.07178380000,
+                        52.20817320000
+                    ],
+                    [
+                        21.07154910000,
+                        52.20823060000
+                    ],
+                    [
+                        21.07225450000,
+                        52.20928660000
+                    ],
+                    [
+                        21.07179050000,
+                        52.20931870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/ce788e66-c13a-4cf4-a52a-69cb30d1e4f5/",
+                "Informacje": "",
+                "name": "Bluszczańska III",
+                "Start budowy": "02.2023",
+                "Data uzyskania DŚ": "",
+                "opis": "",
+                "Data uzyskania PnB": "09.12.2022",
+                "Strona WWW": "https://www.sgi.pl/mieszkania-warszawa/bluszczanska-3/",
+                "Decyzja środowiskowa": "",
+                "Inwestor": "SGI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06680020000,
+                        52.20928010000
+                    ],
+                    [
+                        21.06738500000,
+                        52.20925550000
+                    ],
+                    [
+                        21.06738500000,
+                        52.20977320000
+                    ],
+                    [
+                        21.06726150000,
+                        52.21020880000
+                    ],
+                    [
+                        21.06676270000,
+                        52.21016270000
+                    ],
+                    [
+                        21.06684310000,
+                        52.20992360000
+                    ],
+                    [
+                        21.06661250000,
+                        52.20989770000
+                    ],
+                    [
+                        21.06680020000,
+                        52.20928010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/cae1028e-52e7-491f-beec-c24fcad7d64d/",
+                "Start budowy": "05.2023",
+                "Informacje": "",
+                "Data uzyskania DŚ": "",
+                "Data uzyskania PnB": "13.06.2022",
+                "Strona WWW": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
+                "Decyzja środowiskowa": "",
+                "opis": "etap 1A - 1 budynek (budynek D) na rogu Polskiej i 7 KUL\n40 mieszkań",
+                "Inwestor": "YIT",
+                "name": "Spokojny Mokotów 1A"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07460670000,
+                        52.20678760000
+                    ],
+                    [
+                        21.07461740000,
+                        52.20655260000
+                    ],
+                    [
+                        21.07628210000,
+                        52.20654040000
+                    ],
+                    [
+                        21.07630090000,
+                        52.20676890000
+                    ],
+                    [
+                        21.07460670000,
+                        52.20678760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "Data uzyskania DŚ": "",
+                "Start budowy": "06.2023",
+                "Data uzyskania PnB": "13.06.2022",
+                "Strona WWW": "https://www.yit.pl/warszawa/mokotow/spokojny-mokotow",
+                "Decyzja środowiskowa": "",
+                "opis": "etap 1B - 2 budynki (budynki E), wzdłuż 7KUL lokale usługowe, oddzielne garaże podziemne, 4 kondygnacje, komunikacja od 7KUL 10400 m2\n114 mieszkań",
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/b0ce2a64-a7c3-4c8f-bfc3-f4f5afd747ef/",
+                "name": "Spokojny Mokotów 1B",
+                "Inwestor": "YIT"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07630090000,
+                        52.20676890000
+                    ],
+                    [
+                        21.07628210000,
+                        52.20654040000
+                    ],
+                    [
+                        21.07554810000,
+                        52.20654030000
+                    ],
+                    [
+                        21.07556020000,
+                        52.20641450000
+                    ],
+                    [
+                        21.07609660000,
+                        52.20644080000
+                    ],
+                    [
+                        21.07668940000,
+                        52.20598460000
+                    ],
+                    [
+                        21.07761780000,
+                        52.20640070000
+                    ],
+                    [
+                        21.07759500000,
+                        52.20673440000
+                    ],
+                    [
+                        21.07630090000,
+                        52.20676890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "Strona WWW": "https://robyg.pl/warszawa/inwestycje/rytm-mokotowa",
+                "opis": "",
+                "Inwestor": "Robyg/AMP Atelier Sp. z o.o.",
+                "Data uzyskania PnB": "04.04.2024, 13.08.2024",
+                "name": "Rytm Mokotowa",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_497_OS_2021_z_27_wrzesnia_2021_r__znak_OS-IV-UI_6220_44_2018_MSK.htm",
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/69b14ccc-f6c9-4ef4-9f07-deb80715ae88/\nhttp://wyszukiwarka.gunb.gov.pl/wniosek/52f2c391-11b5-4bbb-8b2a-a86ff57e04cd/\n",
+                "Start budowy": "",
+                "Data uzyskania DŚ": "27.09.2021"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08356110000,
+                        52.19951560000
+                    ],
+                    [
+                        21.08169430000,
+                        52.19875270000
+                    ],
+                    [
+                        21.08168220000,
+                        52.19870670000
+                    ],
+                    [
+                        21.08400370000,
+                        52.19807710000
+                    ],
+                    [
+                        21.08482710000,
+                        52.19840090000
+                    ],
+                    [
+                        21.08356110000,
+                        52.19951560000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "Strona WWW": "https://www.auramokotow.pl/",
+                "Data uzyskania DŚ": "",
+                "Start budowy": "01.2023",
+                "Data uzyskania PnB": "22.04.2022",
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/0e0ec8f2-686e-4e2a-9a68-380787ce15d3/ (pozytywne)\nhttp://wyszukiwarka.gunb.gov.pl/wniosek/88471abe-70f9-462a-9f08-120c3ecb1662/ (unieważnione)\nhttp://wyszukiwarka.gunb.gov.pl/wniosek/3716ff50-58fb-4a26-9412-489efe4a51a3/ (odmowa)\n",
+                "Inwestor": "Mill-yon",
+                "name": "Aura Mokotów I",
+                "Decyzja środowiskowa": "",
+                "opis": "Pięć trzykondygnacyjnych budynków, a w nich 186 apartamentów o powierzchniach od 24 do 116 m2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06947350000,
+                        52.20940810000
+                    ],
+                    [
+                        21.06869300000,
+                        52.20838900000
+                    ],
+                    [
+                        21.06921330000,
+                        52.20789270000
+                    ],
+                    [
+                        21.06942120000,
+                        52.20776860000
+                    ],
+                    [
+                        21.07054600000,
+                        52.20937620000
+                    ],
+                    [
+                        21.06988080000,
+                        52.20942390000
+                    ],
+                    [
+                        21.06947350000,
+                        52.20940810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Data uzyskania PnB": "06.10.2023",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm",
+                "name": "Harmonia Mokotów",
+                "Informacje": "",
+                "Inwestor": "Dom Development",
+                "Start budowy": "01.2024",
+                "opis": "",
+                "Pozwolenie na budowę": "187/MOK/2023\nhttp://wyszukiwarka.gunb.gov.pl/wniosek/70129c02-bbbb-4015-8f49-2014e2cd07e9/\n",
+                "Data uzyskania DŚ": "4.11.2021",
+                "Strona WWW": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06334228910,
+                        52.20561587448
+                    ],
+                    [
+                        21.06289772197,
+                        52.20534942783
+                    ],
+                    [
+                        21.06298109101,
+                        52.20522022745
+                    ],
+                    [
+                        21.06312097176,
+                        52.20504171984
+                    ],
+                    [
+                        21.06335629890,
+                        52.20482993121
+                    ],
+                    [
+                        21.06369591602,
+                        52.20461654030
+                    ],
+                    [
+                        21.06434351516,
+                        52.20499292781
+                    ],
+                    [
+                        21.06334228910,
+                        52.20561587448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "Data uzyskania PnB": "25.04.2024",
+                "Strona WWW": "https://robyg.pl/warszawa/inwestycje/rytm-mokotowa",
+                "Data uzyskania DŚ": "",
+                "opis": "8 budynków ze wspólnym garażem, 5 kondygnacji, lokale usługowe (ok. 490 m2), 363 mieszkania, 356 miejsc w garażu + 10 na zewnątrz",
+                "name": "Rytm Mokotowa II",
+                "Decyzja środowiskowa": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2022/Budowa_zespolu_budynkow_mieszkalnych_wielorodzinnych_wraz_z_garazem_podziemnym__powierzchnia_uslugow.htm\n",
+                "Inwestor": "Robyg",
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/852c9512-ca9c-4b6e-a067-6bf84fe6941d/",
+                "Start budowy": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08235270000,
+                        52.19839200000
+                    ],
+                    [
+                        21.08112150000,
+                        52.19873240000
+                    ],
+                    [
+                        21.08029270000,
+                        52.19813400000
+                    ],
+                    [
+                        21.08097400000,
+                        52.19778870000
+                    ],
+                    [
+                        21.08112420000,
+                        52.19794000000
+                    ],
+                    [
+                        21.08161780000,
+                        52.19772630000
+                    ],
+                    [
+                        21.08235270000,
+                        52.19839200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Informacje": "",
+                "name": "Bluszczańska III",
+                "Start budowy": "02.2023",
+                "Data uzyskania DŚ": "",
+                "opis": "",
+                "Data uzyskania PnB": "09.12.2022",
+                "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/3f49c58d-bed5-4757-a60f-8f0555ea4d1b/",
+                "Decyzja środowiskowa": "",
+                "Strona WWW": "https://www.sgi.pl/mieszkania-warszawa/bluszczanska-3/\n",
+                "Inwestor": "SGI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06712260000,
+                        52.21056740000
+                    ],
+                    [
+                        21.06673600000,
+                        52.21181010000
+                    ],
+                    [
+                        21.06621150000,
+                        52.21175420000
+                    ],
+                    [
+                        21.06660700000,
+                        52.21051640000
+                    ],
+                    [
+                        21.06712260000,
+                        52.21056740000
+                    ]
+                ]
+            }
+        }
+    ]
+}
