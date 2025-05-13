@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "multipolygon",
+                "env_permit":
+                [
+                    {
+                        "name": "Wszczęcie",
+                        "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm"
+                    },
+                    {
+                        "name": "Decyzja",
+                        "url": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm"
+                    }
+                ],
+                "build_permit": [
+                    {
+                        "name": "PnB",
+                        "url": "http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/"
+                }
+                    
+                ],
+                "name": "Wiślany Mokotów VIII",
+                "env_permit_date": "4.11.2021",
+                "info": "",
+                "investor": "Spravia (Budimex Nieruchomości)",
+                "construction_start": "05.2024",
+                "description": "",
+                "url": "https://wislanymokotow.pl/e8/",
+                "build_permit_date": "9.11.2023"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                21.06221926082,
+                                52.20631636133
+                            ],
+                            [
+                                21.06122601057,
+                                52.20619721124
+                            ],
+                            [
+                                21.06126135350,
+                                52.20612957450
+                            ],
+                            [
+                                21.06233700631,
+                                52.20546450646
+                            ],
+                            [
+                                21.06266457172,
+                                52.20566518093
+                            ],
+                            [
+                                21.06247422902,
+                                52.20597055672
+                            ],
+                            [
+                                21.06238167786,
+                                52.20620971350
+                            ],
+                            [
+                                21.06221926082,
+                                52.20631636133
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                21.06237511768,
+                                52.20619390860
+                            ],
+                            [
+                                21.06214795798,
+                                52.20605470000
+                            ],
+                            [
+                                21.06200022896,
+                                52.20614523173
+                            ],
+                            [
+                                21.06222738866,
+                                52.20628444005
+                            ],
+                            [
+                                21.06237511768,
+                                52.20619390860
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                21.06154981794,
+                                52.20621463427
+                            ],
+                            [
+                                21.06139439140,
+                                52.20611960443
+                            ],
+                            [
+                                21.06176163903,
+                                52.20589402762
+                            ],
+                            [
+                                21.06191706557,
+                                52.20598905795
+                            ],
+                            [
+                                21.06154981794,
+                                52.20621463427
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                21.06216634643,
+                                52.20583179946
+                            ],
+                            [
+                                21.06230643602,
+                                52.20574660598
+                            ],
+                            [
+                                21.06228047095,
+                                52.20573057110
+                            ],
+                            [
+                                21.06239565288,
+                                52.20566052471
+                            ],
+                            [
+                                21.06247760531,
+                                52.20571113495
+                            ],
+                            [
+                                21.06260844286,
+                                52.20563195064
+                            ],
+                            [
+                                21.06239251503,
+                                52.20550009766
+                            ],
+                            [
+                                21.06201061818,
+                                52.20573562871
+                            ],
+                            [
+                                21.06216634643,
+                                52.20583179946
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
+
