@@ -23,6 +23,10 @@
   <node id='-25387' lat='52.20563195064' lon='21.06260844286' />
   <node id='-25388' lat='52.20550009766' lon='21.06239251503' />
   <node id='-25389' lat='52.20573562871' lon='21.06201061818' />
+  <node id='-25393' action='modify' lat='52.20561914917' lon='21.06293758279' />
+  <node id='-25394' action='modify' lat='52.20505508722' lon='21.06196872344' />
+  <node id='-25395' action='modify' lat='52.20452400482' lon='21.06276534112' />
+  <node id='-25396' action='modify' lat='52.20518373356' lon='21.06356734136' />
   <way id='-579'>
     <nd ref='-25367' />
     <nd ref='-25368' />
@@ -101,6 +105,14 @@
     <tag k='name' v='Wiślany Mokotów VIII' />
     <tag k='type' v='multipolygon' />
     <tag k='url' v='https://wislanymokotow.pl/e8/' />
+  </way>
+  <way id='-586' action='modify'>
+    <nd ref='-25393' />
+    <nd ref='-25394' />
+    <nd ref='-25395' />
+    <nd ref='-25396' />
+    <nd ref='-25393' />
+    <tag k='name' v='test' />
   </way>
   <relation id='-65' action='modify'>
     <member type='way' ref='-579' role='' />
