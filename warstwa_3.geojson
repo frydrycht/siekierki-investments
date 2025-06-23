@@ -857,7 +857,7 @@
                 "Strona WWW": "https://www.domd.pl/pl-pl/warszawa/lista-inwestycji/osiedle-harmonia-mokotow"
             },
             "geometry": {
-                "type": "LineString",
+                "type": "Polygon",
                 "coordinates": [
                     [
                         21.06334228910,
@@ -909,7 +909,7 @@
                 "Start budowy": ""
             },
             "geometry": {
-                "type": "LineString",
+                "type": "Polygon",
                 "coordinates": [
                     [
                         21.08235270000,
@@ -957,7 +957,7 @@
                 "Inwestor": "SGI"
             },
             "geometry": {
-                "type": "LineString",
+                "type": "Polygon",
                 "coordinates": [
                     [
                         21.06712260000,
