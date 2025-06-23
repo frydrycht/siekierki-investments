@@ -957,7 +957,7 @@
                 "Inwestor": "SGI"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         21.06712260000,
