@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-25367' lat='52.20631636133' lon='21.06221926082' />
+  <node id='-25368' lat='52.20619721124' lon='21.06122601057' />
+  <node id='-25369' lat='52.2061295745' lon='21.0612613535' />
+  <node id='-25370' lat='52.20546450646' lon='21.06233700631' />
+  <node id='-25371' lat='52.20566518093' lon='21.06266457172' />
+  <node id='-25372' lat='52.20597055672' lon='21.06247422902' />
+  <node id='-25373' lat='52.2062097135' lon='21.06238167786' />
+  <node id='-25374' lat='52.2061939086' lon='21.06237511768' />
+  <node id='-25375' lat='52.2060547' lon='21.06214795798' />
+  <node id='-25376' lat='52.20614523173' lon='21.06200022896' />
+  <node id='-25377' lat='52.20628444005' lon='21.06222738866' />
+  <node id='-25378' lat='52.20621463427' lon='21.06154981794' />
+  <node id='-25379' lat='52.20611960443' lon='21.0613943914' />
+  <node id='-25380' lat='52.20589402762' lon='21.06176163903' />
+  <node id='-25381' lat='52.20598905795' lon='21.06191706557' />
+  <node id='-25382' lat='52.20583179946' lon='21.06216634643' />
+  <node id='-25383' lat='52.20574660598' lon='21.06230643602' />
+  <node id='-25384' lat='52.2057305711' lon='21.06228047095' />
+  <node id='-25385' lat='52.20566052471' lon='21.06239565288' />
+  <node id='-25386' lat='52.20571113495' lon='21.06247760531' />
+  <node id='-25387' lat='52.20563195064' lon='21.06260844286' />
+  <node id='-25388' lat='52.20550009766' lon='21.06239251503' />
+  <node id='-25389' lat='52.20573562871' lon='21.06201061818' />
+  <way id='-579'>
+    <nd ref='-25367' />
+    <nd ref='-25368' />
+    <nd ref='-25369' />
+    <nd ref='-25370' />
+    <nd ref='-25371' />
+    <nd ref='-25372' />
+    <nd ref='-25373' />
+    <nd ref='-25367' />
+    <tag k='build_permit' v='[{&quot;name&quot;:&quot;PnB&quot;,&quot;url&quot;:&quot;http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/&quot;}]' />
+    <tag k='build_permit_date' v='9.11.2023' />
+    <tag k='construction_start' v='05.2024' />
+    <tag k='description' v='' />
+    <tag k='env_permit' v='[{&quot;name&quot;:&quot;Wszczęcie&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm&quot;},{&quot;name&quot;:&quot;Decyzja&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm&quot;}]' />
+    <tag k='env_permit_date' v='4.11.2021' />
+    <tag k='info' v='' />
+    <tag k='investor' v='Spravia (Budimex Nieruchomości)' />
+    <tag k='name' v='Wiślany Mokotów VIII' />
+    <tag k='type' v='multipolygon' />
+    <tag k='url' v='https://wislanymokotow.pl/e8/' />
+  </way>
+  <way id='-580'>
+    <nd ref='-25374' />
+    <nd ref='-25375' />
+    <nd ref='-25376' />
+    <nd ref='-25377' />
+    <nd ref='-25374' />
+    <tag k='build_permit' v='[{&quot;name&quot;:&quot;PnB&quot;,&quot;url&quot;:&quot;http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/&quot;}]' />
+    <tag k='build_permit_date' v='9.11.2023' />
+    <tag k='construction_start' v='05.2024' />
+    <tag k='description' v='' />
+    <tag k='env_permit' v='[{&quot;name&quot;:&quot;Wszczęcie&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm&quot;},{&quot;name&quot;:&quot;Decyzja&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm&quot;}]' />
+    <tag k='env_permit_date' v='4.11.2021' />
+    <tag k='info' v='' />
+    <tag k='investor' v='Spravia (Budimex Nieruchomości)' />
+    <tag k='name' v='Wiślany Mokotów VIII' />
+    <tag k='type' v='multipolygon' />
+    <tag k='url' v='https://wislanymokotow.pl/e8/' />
+  </way>
+  <way id='-581'>
+    <nd ref='-25378' />
+    <nd ref='-25379' />
+    <nd ref='-25380' />
+    <nd ref='-25381' />
+    <nd ref='-25378' />
+    <tag k='build_permit' v='[{&quot;name&quot;:&quot;PnB&quot;,&quot;url&quot;:&quot;http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/&quot;}]' />
+    <tag k='build_permit_date' v='9.11.2023' />
+    <tag k='construction_start' v='05.2024' />
+    <tag k='description' v='' />
+    <tag k='env_permit' v='[{&quot;name&quot;:&quot;Wszczęcie&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm&quot;},{&quot;name&quot;:&quot;Decyzja&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm&quot;}]' />
+    <tag k='env_permit_date' v='4.11.2021' />
+    <tag k='info' v='' />
+    <tag k='investor' v='Spravia (Budimex Nieruchomości)' />
+    <tag k='name' v='Wiślany Mokotów VIII' />
+    <tag k='type' v='multipolygon' />
+    <tag k='url' v='https://wislanymokotow.pl/e8/' />
+  </way>
+  <way id='-582'>
+    <nd ref='-25382' />
+    <nd ref='-25383' />
+    <nd ref='-25384' />
+    <nd ref='-25385' />
+    <nd ref='-25386' />
+    <nd ref='-25387' />
+    <nd ref='-25388' />
+    <nd ref='-25389' />
+    <nd ref='-25382' />
+    <tag k='build_permit' v='[{&quot;name&quot;:&quot;PnB&quot;,&quot;url&quot;:&quot;http://wyszukiwarka.gunb.gov.pl/wniosek/0bb0fe17-5fe1-4b43-b9cd-a8120011ed54/&quot;}]' />
+    <tag k='build_permit_date' v='9.11.2023' />
+    <tag k='construction_start' v='05.2024' />
+    <tag k='description' v='' />
+    <tag k='env_permit' v='[{&quot;name&quot;:&quot;Wszczęcie&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/espol_budynkow_mieszkalnych_wielorodzinnych_z_uslugami__garazami_podziemnymi_oraz_infrastruktura_tec.htm&quot;},{&quot;name&quot;:&quot;Decyzja&quot;,&quot;url&quot;:&quot;https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/skany/2021/Decyzja_nr_575_OS_2021_z_4_listopada_2021_r__znak_OS-IV-UII_6220_80_2020_UPR.htm&quot;}]' />
+    <tag k='env_permit_date' v='4.11.2021' />
+    <tag k='info' v='' />
+    <tag k='investor' v='Spravia (Budimex Nieruchomości)' />
+    <tag k='name' v='Wiślany Mokotów VIII' />
+    <tag k='type' v='multipolygon' />
+    <tag k='url' v='https://wislanymokotow.pl/e8/' />
+  </way>
+  <relation id='-65' action='modify'>
+    <member type='way' ref='-579' role='' />
+    <member type='way' ref='-581' role='' />
+    <member type='way' ref='-580' role='' />
+    <member type='way' ref='-582' role='' />
+    <tag k='name' v='Wiślany Mokotów VIII' />
+    <tag k='type' v='site' />
+  </relation>
+</osm>
